@@ -4,7 +4,7 @@ If you have any suggestions, please send a pull request.
 
 #### Study Papers
 
-#### IoT Surveys  
+#### IoT Surveys/Study  
 - 2019, USENIX, [All Things Considered: An Analysis of IoT Devices on Home Networks] (https://www.usenix.org/system/files/sec19-kumar-deepak_0.pdf)
 - 2019, arXiv, [Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities](https://arxiv.org/pdf/1809.06962.pdf)
 - 2019, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)
