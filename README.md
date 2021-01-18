@@ -1,8 +1,25 @@
-# IoT Reading List (IoT research papers from 2016 to 2019):
-This page includes a collection of papers we recommend reading for those interested in studying Internet of Things security and privacy. 
+# IoT Reading List (IoT research papers from 2016-):
+This page includes a collection of papers related to IoT Privacy and Security. 
 If you have any suggestions, please send a pull request.
 
-[Z. Berkay Celik](https://beerkay.github.io/) and [Xiaolei Wang](mailto:xxw170@psu.edu).
+#### Study Papers
+
+#### IoT Surveys  
+- 2019, USENIX, [All Things Considered: An Analysis of IoT Devices on Home Networks] (https://www.usenix.org/system/files/sec19-kumar-deepak_0.pdf)
+- 2019, arXiv, [Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities](https://arxiv.org/pdf/1809.06962.pdf)
+- 2019, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)
+- 2018, arXiv, [IoT Security: An End-to-End View and Case Study](https://arxiv.org/pdf/1805.05853.pdf)
+- 2017, arXiv, [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security](https://arxiv.org/pdf/1807.11023.pdf)
+- 2017, arXiv, [Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be](https://arxiv.org/pdf/1703.09809.pdf)
+- 2017, IEEE S&P Magazine, [Internet of Things Security Research: A Rehash of Old Ideas or New Intellectual Challenges](https://arxiv.org/pdf/1705.08522.pdf)
+- 2018, BlackHat, [IoT Malware: Comprehensive Survey, Analysis Framework and Case Studies](https://i.blackhat.com/us-18/Thu-August-9/us-18-Costin-Zaddach-IoT-Malware-Comprehensive-Survey-Analysis-Framework-and-Case-Studies-wp.pdf)
+- 2018, arXiv, [A Survey on Sensor-based Threats to Internet-of-Things (IoT) Devices and Applications](https://arxiv.org/pdf/1802.02041.pdf)
+
+#### IoT Privacy
+- 2020, IEEE S&P, [Ask the Experts: What Should Be on an IoT Privacy and Security Label?](https://arxiv.org/abs/2002.04631)
+
+#### IoT Testing 
+- 2020, IEEE S&P, [Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses](https://www.adwaitnadkarni.com/pdf/manandhar-oakland20.pdf)
 
 #### First Depth Study on IoT Security (focusing on SmartThings, and motivating the following IoT research)
 - 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
@@ -12,6 +29,7 @@ If you have any suggestions, please send a pull request.
 - 2018, USENIX Security, [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf)
 
 #### Access Control 
+- 2017, CODASPY, [A Study of Data Store-based Home Automation. Proceedings of the 9th ACM Conference on Data and Application Security and Privacy] (https://www.adwaitnadkarni.com/pdf/kafle-codaspy19.pdf)
 - 2017, NDSS, [ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms](https://amir.rahmati.com/dl/ndss17/ContexIoT_NDSS17.pdf) 
 - 2017, USENIX Security, [SmartAuth: User-Centered Authorization for the Internet of Things](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tian.pdf)
 - 2017, Access Control Models, [FACT: Functionality-centric Access Control System for IoT Programming Frameworks](http://www.corelab.or.kr/Pubs/sacmat17_fact.pdf)
@@ -59,16 +77,6 @@ If you have any suggestions, please send a pull request.
 #### IoT Test Suite
 - 2018, [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/IoTBench-test-suite)
 
-#### IoT Surveys  
-- 2019, arXiv, [Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities](https://arxiv.org/pdf/1809.06962.pdf)
-- 2019, IEEE S&P, [SoK: Security Evaluation of Home-Based IoT Deployments](https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html)
-- 2018, arXiv, [IoT Security: An End-to-End View and Case Study](https://arxiv.org/pdf/1805.05853.pdf)
-- 2017, arXiv, [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security](https://arxiv.org/pdf/1807.11023.pdf)
-- 2017, arXiv, [Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be](https://arxiv.org/pdf/1703.09809.pdf)
-- 2017, IEEE S&P Magazine, [Internet of Things Security Research: A Rehash of Old Ideas or New Intellectual Challenges](https://arxiv.org/pdf/1705.08522.pdf)
-- 2018, BlackHat, [IoT Malware: Comprehensive Survey, Analysis Framework and Case Studies](https://i.blackhat.com/us-18/Thu-August-9/us-18-Costin-Zaddach-IoT-Malware-Comprehensive-Survey-Analysis-Framework-and-Case-Studies-wp.pdf)
-- 2018, arXiv, [A Survey on Sensor-based Threats to Internet-of-Things (IoT) Devices and Applications](https://arxiv.org/pdf/1802.02041.pdf)
 
-
-###### Notes:
-###### (*) will be read (suggested by [Dr.Hongxin Hu](https://people.cs.clemson.edu/~hongxih/))
+### Acknowledgement:
+* Forked from https://github.com/Beerkay/IoTResearch
